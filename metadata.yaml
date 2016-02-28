@@ -1,0 +1,41 @@
+_repo: Mozart-The-Man-and-the-Artist-as-Revealed-in-His-Own-Words_4042
+contributor:
+  compiler:
+    agent_name: Kerst, Friedrich
+    birthdate: 1870
+    gutenberg_agent_id: '2082'
+    url: http://www.gutenberg.org/2009/agents/2082
+  translator:
+    agent_name: Krehbiel, Henry Edward
+    alias: Krehbiel, H. E. (Henry Edward)
+    birthdate: 1854
+    deathdate: 1923
+    gutenberg_agent_id: '1296'
+    url: http://www.gutenberg.org/2009/agents/1296
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Edward_Krehbiel
+creator:
+  author:
+    agent_name: Mozart, Wolfgang Amadeus
+    aliases:
+    - Mozart, W. A. (Wolfgang Amadeus)
+    - Mozart, Johann Chrysostom Wolfgang Amadeus
+    birthdate: 1756
+    deathdate: 1791
+    gutenberg_agent_id: '1368'
+    url: http://www.gutenberg.org/2009/agents/1368
+    wikipedia: http://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
+description: 'Uniform title: Correspondence. Selections. English. 1906'
+gutenberg_bookshelf: Music
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Mozart, Wolfgang Amadeus, 1756-1791'
+title: 'Mozart: The Man and the Artist, as Revealed in His Own Words'
+url: http://www.gutenberg.org/ebooks/4042
