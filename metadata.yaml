@@ -1,5 +1,5 @@
 _repo: Mozart-The-Man-and-the-Artist-as-Revealed-in-His-Own-Words_4042
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Kerst, Friedrich
@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '1296'
     url: http://www.gutenberg.org/2009/agents/1296
     wikipedia: http://en.wikipedia.org/wiki/Henry_Edward_Krehbiel
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mozart, Wolfgang Amadeus
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1368
     wikipedia: http://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
 description: 'Uniform title: Correspondence. Selections. English. 1906'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4042#Mozart-The-Man-and-the-Artist-as-Revealed-in-His-Own-Words
 gutenberg_bookshelf: Music
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
