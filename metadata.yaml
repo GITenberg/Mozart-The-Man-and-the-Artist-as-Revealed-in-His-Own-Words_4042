@@ -1,5 +1,5 @@
 _repo: Mozart-The-Man-and-the-Artist-as-Revealed-in-His-Own-Words_4042
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   compiler:
     agent_name: Kerst, Friedrich
@@ -43,5 +43,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'ML'
 - !lcsh 'Mozart, Wolfgang Amadeus, 1756-1791'
+- GITenberg
 title: 'Mozart: The Man and the Artist, as Revealed in His Own Words'
 url: http://www.gutenberg.org/ebooks/4042
